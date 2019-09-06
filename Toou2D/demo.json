@@ -3,9 +3,9 @@
         "name":"MusicPlayer",
         "author":"钛浪",
         "version":"1.0",
-        "describe":"Based on toou-2d music player.",
+        "describe":"Based on toou-2d music player,Perfect.",
         "depend":"1.0",
-        "sample":"http://showfl.com/github/test/musicplayer.png",
+        "sample":"https://raw.githubusercontent.com/ShowFL/NetworkDisk/master/Toou2D/t2d-musicplayer.png",
         "url":""
     }
 ]

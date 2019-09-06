@@ -1,0 +1,11 @@
+[
+    {
+        "name":"MusicPlayer",
+        "author":"钛浪",
+        "version":"1.0",
+        "describe":"Based on toou-2d music player.",
+        "depend":"1.0",
+        "sample":"http://showfl.com/github/test/musicplayer.png",
+        "url":""
+    }
+]

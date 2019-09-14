@@ -3,9 +3,9 @@
         "name":"MusicPlayer",
         "author":"钛浪",
         "version":"1.0",
-        "describe":"A player, using Qt+Toou 2D development. Many theme.",
+        "describe":"Ui遵循Toou2D控件规范并开发，高仿网易云音乐。",
         "depend":"1.0",
-        "sample":"https://raw.githubusercontent.com/ShowFL/NetworkDisk/master/Toou2D/t2d-musicplayer.png",
-        "url":""
+        "sample":"http://oss.toou.net/github-resources/2d/t2d-musicplayer.png",
+        "url":"http://oss.toou.net/github-resources/2d/t2d-musicplayer.zip"
     }
 ]
